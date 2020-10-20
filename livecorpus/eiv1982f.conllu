@@ -26,7 +26,7 @@
 23	/	/	PUNCT	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#5.305#5.52
 24	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@eiv1982f-talkens#@eiv1982f#5.52#5.735
 25	очень	очень	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#5.735#5.95
-26	обидно	обидно	@eiv1982f-talkens#@eiv1982f#5.95#6.165
+26	обидно	обидно	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#5.95#6.165
 27	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	@eiv1982f-talkens#@eiv1982f#6.165#6.38
 28	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@eiv1982f-talkens#@eiv1982f#6.38#6.595
 29	сойти	сойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@eiv1982f-talkens#@eiv1982f#6.595#6.81
@@ -60,13 +60,13 @@
 58	#смеётся#	X	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#15.88#16.717
 59	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	@eiv1982f-talkens#@eiv1982f#16.82#17.168
 60	прям	прямой	ADJ	_	Degree=Cmp	_	_	_	@eiv1982f-talkens#@eiv1982f#17.168#17.516
-61	с...сразу	с...сразу	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#17.516#17.864
+61	сразу	сразу	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#17.516#17.864
 62	очень	очень	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#17.864#18.212
 63	в	в	ADP	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#18.212#18.56
 64	тонусе	тонус	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	@eiv1982f-talkens#@eiv1982f#18.56#18.908
 65	/	/	PUNCT	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#18.908#19.256
 66	потому	потому	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#19.256#19.604
-67	что	что	SCONJ	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#19.604#19.952
+67  что	что	SCONJ	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#19.604#19.952
 68	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	_	_	_	@eiv1982f-talkens#@eiv1982f#19.952#20.3
 69	очень	очень	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#20.3#20.648
 70	быстро	быстро	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#20.648#20.996
