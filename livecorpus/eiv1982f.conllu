@@ -581,7 +581,7 @@
 576	вон	вон	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#201.082#201.394
 577	отсюда	отсюда	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#201.394#201.706
 578	/	/	PUNCT	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#201.706#202.018
-579	вообщ...	вообщ...	ADJ	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#202.018#202.33
+579	вообщ...	вообще	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#202.018#202.33
 580	/	/	PUNCT	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#202.33#202.642
 581	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@eiv1982f-talkens#@eiv1982f#202.642#202.954
 582	вообще	вообще	ADV	_	Degree=Pos	_	_	_	@eiv1982f-talkens#@eiv1982f#202.954#203.266
