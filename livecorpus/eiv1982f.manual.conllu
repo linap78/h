@@ -796,7 +796,7 @@
 793 понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@eiv1982f-talkens#@eiv1982f#305.211#305.472
 794 /	/	PUNCT	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#305.472#305.733
 795 что	что	SCONJ	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#305.733#305.994
-796 стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	@eiv1982f-talkens#@eiv1982f#305.994#306.255
+796 стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@eiv1982f-talkens#@eiv1982f#305.994#306.255
 797 певицей	певица	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	@eiv1982f-talkens#@eiv1982f#306.255#306.516
 798 при	при	ADP	_	_	_	_	_	@eiv1982f-talkens#@eiv1982f#306.516#306.777
 799 моих	мой	DET	_	Case=Loc|Number=Plur	_	_	_	@eiv1982f-talkens#@eiv1982f#306.777#307.038
